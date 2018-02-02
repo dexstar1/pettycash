@@ -1,0 +1,44 @@
+[26-Jan-2018 23:13:09 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php on line 6
+[26-Jan-2018 23:13:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known' in /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php:6
+Stack trace:
+#0 /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php(6): PDO->__construct('mysql:host=hero...', 'b4e2418e59d7ed', 'b46998fc')
+#1 /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/fetch.php(2): include('/home/iqcrmiuk/...')
+#2 {main}
+  thrown in /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php on line 6
+[26-Jan-2018 23:17:52 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php on line 6
+[26-Jan-2018 23:17:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known' in /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php:6
+Stack trace:
+#0 /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php(6): PDO->__construct('mysql:host=hero...', 'b4e2418e59d7ed', 'b46998fc')
+#1 /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/fetch.php(2): include('/home/iqcrmiuk/...')
+#2 {main}
+  thrown in /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php on line 6
+[26-Jan-2018 23:19:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php:6
+Stack trace:
+#0 /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php(6): PDO->__construct('mysql:host=hero...', 'b4e2418e59d7ed', 'b46998fc')
+#1 /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/fetch.php(2): include('/home/iqcrmiuk/...')
+#2 {main}
+  thrown in /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php on line 6
+[26-Jan-2018 23:20:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php:6
+Stack trace:
+#0 /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php(6): PDO->__construct('mysql:host=eu-c...', 'b4e2418e59d7ed', 'b46998fc')
+#1 /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/fetch.php(2): include('/home/iqcrmiuk/...')
+#2 {main}
+  thrown in /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php on line 6
+[26-Jan-2018 23:21:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php:6
+Stack trace:
+#0 /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php(6): PDO->__construct('mysql:host=eu-c...', 'b4e2418e59d7ed', 'b46998fc')
+#1 /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/fetch.php(2): include('/home/iqcrmiuk/...')
+#2 {main}
+  thrown in /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php on line 6
+[26-Jan-2018 23:22:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php:6
+Stack trace:
+#0 /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php(6): PDO->__construct('mysql:host=eu-c...', 'b4e2418e59d7ed@...', 'b46998fc')
+#1 /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/fetch.php(2): include('/home/iqcrmiuk/...')
+#2 {main}
+  thrown in /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php on line 6
+[26-Jan-2018 23:35:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php:6
+Stack trace:
+#0 /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php(6): PDO->__construct('mysql:host=eu-c...', 'b4e2418e59d7ed@...', 'b46998fc')
+#1 /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/fetch.php(2): include('/home/iqcrmiuk/...')
+#2 {main}
+  thrown in /home/iqcrmiuk/public_html/pettycash.com.ng/dashboard/db.php on line 6
