@@ -1,0 +1,19 @@
+{
+    "name": "pettycash",
+    "description": "This is a simple hello world example.",
+    "authors": [
+        {
+            "name": "fola",
+            "email": "jonsaix852@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
